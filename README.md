@@ -1,4 +1,4 @@
-# 🌿 Arnob Rahman (Onu) — `Programmer, Poet, Dreamer`
+# 🌿 Arnob Rahman (Onu) - `Programmer, Poet, Dreamer`
 
 > "Where code meets conscience, and every line has a purpose."
 
