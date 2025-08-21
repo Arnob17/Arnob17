@@ -17,7 +17,7 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 - 🔧 **Backend Engineering** - `Node.js`, `NestJS, Express`, `TypeORM`, `PostgreSQL, MySQL`, `JWT`, `RTDN`
 - 🖼️ **Frontend Engineering** - `React.js`, `Next.js`, `React-Router`, `TailwindCSS`
 - ☁️ **DevOps** - GitHub Actions, PM2, Docker (in progress)
-- 📊 **Aloion Founder** - Blending tech + education + empathy
+- 📊 **Aloion** - Blending tech + education + empathy
 - 🔐 **Writing** - I love writing, I love poems.
 
 ---
