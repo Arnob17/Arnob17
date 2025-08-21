@@ -25,7 +25,7 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 ## 📂 Projects You Might Like
 
 - [TrackaTail](https://www.trackatail.com) - A product of [Sara Tech Limited](https://saratech.com.bd), I was the backend and frontend (web) engineer.
-- [💡 Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
+- [Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
 <!-- - [📦 ScanIt](https://scanit.com) — Enterprise file/document manager -->
 
 ---
