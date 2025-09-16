@@ -59,4 +59,4 @@ I believe in:
 
 ---
 
-![Created by Gpt-Sora](./hero_picture.png)
+#![Created by Gpt-Sora](./hero_picture.png)
