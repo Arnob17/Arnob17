@@ -58,5 +58,3 @@ I believe in:
 > “The world is going with its own law, doesn't care what we think or do. Its better to be like the world, that is the way to success in the world..”
 
 ---
-
-#![Created by Gpt-Sora](./hero_picture.png)
