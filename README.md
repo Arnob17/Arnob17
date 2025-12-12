@@ -1,10 +1,7 @@
-# 🌿 Arnob Rahman (Onu) - `Programmer, Poet, Dreamer`
-
-> "Where code meets conscience, and every line has a purpose."
-
+<!-- # 🌿 Arnob Rahman (Onu) - `Programmer, Poet, Dreamer` -->
 ---
 
-## 🧠 Who I Am
+## Who I Am
 
 I'm **Arnob Rahman**, a full-stack developer, Literature and Science enthusiast - currently shaping impactful products at [Sara Tech Limited](https://saratech.com.bd), and leading the education revolution through **Aloion**, a student-run learning initiative for underprivileged youth.
 
@@ -12,46 +9,33 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- 🔧 **Backend Engineering** - `Node.js`, `NestJS, Express`, `TypeORM`, `PostgreSQL, MySQL`, `JWT`, `RTDN`
-- 🖼️ **Frontend Engineering** - `React.js`, `Next.js`, `React-Router`, `TailwindCSS`
-- ☁️ **DevOps** - GitHub Actions, PM2, Docker (in progress)
-- 📊 **Aloion** - Blending tech + education + empathy
-- 🔐 **Writing** - I love writing, I love poems.
+- **Backend Engineering** - `Node.js`, `NestJS, Express`, `TypeORM`, `PostgreSQL, MySQL`, `JWT`, `RTDN`
+- **Frontend Engineering** - `React.js`, `Next.js`, `React-Router`, `TailwindCSS`
+<!-- - **DevOps** - GitHub Actions, PM2, Docker (in progress) -->
+- **Aloion** - Blending tech + education + empathy
+- **Writing** - I love writing, I love poems.
 
 ---
-
-## 📂 Projects You Might Like
+<!-- 
+##  Projects You Might Like
 
 - [TrackaTail](https://www.trackatail.com) - A product of [Sara Tech Limited](https://saratech.com.bd), I was the backend and frontend (web) engineer.
 - [Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
-<!-- - [📦 ScanIt](https://scanit.com) — Enterprise file/document manager -->
+- [ScanIt](https://scanit.com) — Enterprise file/document manager -->
+
+## Reach Me
+
+- [LinkedIn](https://linkedin.com/in/arnob17)
+- Email: `bluestone0037@gmail.com`
+<!-- - Portfolio: *(Coming Soon)* -->
 
 ---
 
-## 🧘‍♂️ Philosophy
+## Tech Stack
 
-> "**Code with heart, build with purpose.**"
-
-I believe in:
-- Bengali minimalist design
-- Slow tech, human-centered systems
-- Empowering others with what I learn
-
----
-
-## 📬 Reach Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/arnob17)
-- 📫 Email: `bluestone0037@gmail.com`
-- 🧑‍🎓 Portfolio: *(Coming Soon)*
-
----
-
-## 📌 Tech Stack
-
-![My Stack](https://skillicons.dev/icons?i=ts,js,react,next,nestjs,nodejs,postgres,git,docker,vscode,python)
+![My Stack](https://skillicons.dev/icons?i=ts,js,react,next,nestjs,nodejs,postgres,git,docker,vscode,python,go,vim,c)
 
 ---
 
