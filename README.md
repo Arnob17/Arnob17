@@ -33,13 +33,13 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 
 ---
 
-## Tech Stack
-# Languages
+# Tech Stack
+## Languages
 ![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
-# Frameworks
-![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,ffmpeg)
-# Tools
-![My Stack](https://skillicons.dev/icons?i=vscode,vim,zed,emacs,docker,bash,git)
+## Frameworks
+![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind,typeorm,socketio)
+## Tools
+![My Stack](https://skillicons.dev/icons?i=vscode,vim,nano,emacs,docker,bash,git)
 
 ---
 
