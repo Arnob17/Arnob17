@@ -37,9 +37,9 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 ## Languages
 ![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
 ## Frameworks
-![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind,typeorm,socketio)
+![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
 ## Tools
-![My Stack](https://skillicons.dev/icons?i=vscode,vim,nano,emacs,docker,bash,git)
+![My Stack](https://skillicons.dev/icons?i=vscode,vim,atom,emacs,docker,bash,git)
 
 ---
 
