@@ -34,11 +34,15 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 ---
 
 ## Tech Stack
-
-![My Stack](https://skillicons.dev/icons?i=ts,js,react,next,nestjs,nodejs,postgres,git,docker,vscode,python,go,vim,c)
+# Languages
+![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
+# Frameworks
+![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,ffmpeg)
+# Tools
+![My Stack](https://skillicons.dev/icons?i=vscode,vim,zed,emacs,docker,bash,git)
 
 ---
 
-> “The world is going with its own law, doesn't care what we think or do. Its better to be like the world, that is the way to success in the world..”
+> “Earth is magical.”
 
 ---
