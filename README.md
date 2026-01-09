@@ -11,11 +11,7 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 
 ## What I Do
 
-- **Backend Engineering** - `Node.js`, `NestJS, Express`, `TypeORM`, `PostgreSQL, MySQL`, `JWT`, `RTDN`
-- **Frontend Engineering** - `React.js`, `Next.js`, `React-Router`, `TailwindCSS`
-<!-- - **DevOps** - GitHub Actions, PM2, Docker (in progress) -->
-- **Aloion** - Blending tech + education + empathy
-- **Writing** - I love writing, I love poems.
+I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backnd Engineering. Although I do create websites, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
 
 ---
 <!-- 
@@ -29,10 +25,10 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 
 - [LinkedIn](https://linkedin.com/in/arnob17)
 - Email: `bluestone0037@gmail.com`
-<!-- - Portfolio: *(Coming Soon)* -->
+- Blogposts: [arnob17.vercel.app](https://arnob17.vercel.app/)
 
 ---
-
+<!--
 # Tech Stack
 ## Languages
 ![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
@@ -40,7 +36,7 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 ![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
 ## Tools
 ![My Stack](https://skillicons.dev/icons?i=vscode,vim,atom,emacs,docker,bash,git)
-
+-->
 ---
 
 > “Earth is magical.”
