@@ -11,7 +11,7 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 
 ## What I Do
 
-I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backnd Engineering. Although I do create websites, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
+I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backnd Engineering. Although I do create webapps, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
 
 ---
 <!-- 
