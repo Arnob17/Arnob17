@@ -25,7 +25,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 
 - [LinkedIn](https://linkedin.com/in/arnob17)
 - Email: `bluestone0037@gmail.com`
-- Blogposts: [arnob17.vercel.app](https://arnob17.vercel.app/writings)
+- Blogposts: [/writings](https://arnob17.vercel.app/writings)
 
 ---
 <!--
