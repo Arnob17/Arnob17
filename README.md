@@ -24,7 +24,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 ## Reach Me
 
 - [LinkedIn](https://linkedin.com/in/arnob17)
-- Email: `bluestone0037@gmail.com`
+- Email: `arnob17@tuta.io`
 - Blogposts: [/writings](https://arnob17.vercel.app/writings)
 
 ---
