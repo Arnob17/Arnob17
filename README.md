@@ -36,7 +36,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 ![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
 -->
 ## Tools
-![My Stack](https://skillicons.dev/icons?i=vscode,vim,atom,emacs,docker,bash,git)
+![My Stack](https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git)
 
 ---
 
