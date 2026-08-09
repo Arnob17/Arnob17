@@ -3,7 +3,7 @@
 
 ## Who I Am
 
-I'm **Arnob Rahman**, a full-stack developer, Literature and Science enthusiast - currently shaping impactful products at [Sara Tech Limited](https://saratech.com.bd), and leading the education revolution through **Aloion**, a student-run learning initiative for underprivileged youth.
+I'm **Arnob Rahman**, a full-stack developer, Literature and Science enthusiast - currently shaping impactful products at [Sara Tech Limited](https://saratech.com.bd), and leading the education revolution through [Aloion](https://aloion.com), a student-run learning initiative for underprivileged youth.
 
 When not coding, I explore classical Bengali music, poetry, and the fabric of space-time.
 
