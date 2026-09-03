@@ -41,6 +41,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 ---
 
 > ~~“Earth is magical.”~~ \
-> "Earth is **brutally** magical" 
+> "Earth is **brutally** magical" \
+> 
 ~Ornob (2026)
 ---
