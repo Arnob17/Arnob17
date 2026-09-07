@@ -1,15 +1,30 @@
-# 🌿 Arnob Rahman (Onu)
-### *`Programmer | Poet | Dreamer`*
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
----
+  <!-- Left: Image Section -->
+  <div style="flex: 1; min-width: 280px; max-width: 380px;">
+    <img src="./arnob_pfp.png" alt="Arnob Rahman" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
+  </div>
 
-### 👨‍💻 Who I Am
+  <!-- Right: Bio Section -->
+  <div style="flex: 1.2; min-width: 300px; text-align: left;">
+    <h1>🌿 Arnob Rahman (Onu)</h1>
+    <p><i><code>Programmer | Poet | Dreamer</code></i></p>
+    <hr />
+    <p>
+      I'm a Full-Stack Developer, Literature, and Science enthusiast shaping products at 
+      <a href="https://saratech.com.bd"><b>Sara Tech Limited</b></a> and leading 
+      <a href="https://aloion.com"><b>Aloion</b></a>.
+    </p>
+    <p>When not coding, I explore classical Bengali music, poetry, and space-time.</p>
+    <br />
+    <p>
+      <a href="https://linkedin.com/in/arnob17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:arnob17@tuta.io"><img src="https://img.shields.io/badge/Email-arnob17@tuta.io-D14836?style=flat-square&logo=mail&logoColor=white" /></a>
+      <a href="https://arnob17.vercel.app/writings"><img src="https://img.shields.io/badge/Writings-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+    </p>
+  </div>
 
-I'm **Arnob Rahman**, a Full-Stack Developer, Literature, and Science enthusiast. 
-
-* 🔭 Currently shaping impactful products at **[Sara Tech Limited](https://saratech.com.bd)**.
-* 🚀 Leading the educational revolution through **[Aloion](https://aloion.com)**, a student-run learning initiative empowering underprivileged youth.
-* 🌌 When not writing code, I explore classical Bengali music, poetry, and the intricate fabric of space-time.
+</div>
 
 ---
 
@@ -31,39 +46,17 @@ Core Backend Engineering is my true passion, though I build end-to-end web appli
 
 **Languages**  
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,py" alt="Languages" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,py" /></a>
 </p>
 
 **Frameworks**  
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind" alt="Frameworks" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind" /></a>
 </p>
 
 **Tools & Environment**  
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git" alt="Tools" />
-  </a>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/arnob17" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arnob17@tuta.io">
-    <img src="https://img.shields.io/badge/Email-arnob17@tuta.io-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://arnob17.vercel.app/writings" target="_blank">
-    <img src="https://img.shields.io/badge/Read_Writings-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git" /></a>
 </p>
 
 ---
