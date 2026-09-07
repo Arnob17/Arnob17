@@ -1,66 +1,80 @@
-<table border="0">
-  <tr>
-    <!-- Left: Image -->
-    <td width="40%" align="center" valign="middle">
-      <img src="./arnob_pfp.jpg" alt="Arnob Rahman" width="100%" style="border-radius: 10px;" />
-    </td>
-    <!-- Right: Bio -->
-    <td width="60%" valign="top">
-      <h1>🌿 Arnob Rahman (Onu)</h1>
-      <p><i><code>Programmer | Poet | Dreamer</code></i></p>
-      <hr />
-      <p>
-        I'm a Full-Stack Developer, Literature, and Science enthusiast shaping products at 
-        <a href="https://saratech.com.bd"><b>Sara Tech Limited</b></a> and leading 
-        <a href="https://aloion.com"><b>Aloion</b></a>.
-      </p>
-      <p>When not coding, I explore classical Bengali music, poetry, and space-time.</p>
-      <p>
-        <a href="https://linkedin.com/in/arnob17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:arnob17@tuta.io"><img src="https://img.shields.io/badge/Email-arnob17@tuta.io-D14836?style=flat-square&logo=mail&logoColor=white" /></a>
-        <a href="https://arnob17.vercel.app/writings"><img src="https://img.shields.io/badge/Writings-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+# 🌿 Arnob Rahman (Onu)
+### `Programmer, Poet, Dreamer`
 
 ---
 
-### 🛠️ What I Do
+## Who I Am
 
-Core Backend Engineering is my true passion, though I build end-to-end web applications as a Full-Stack Engineer. Beyond tech, I manage **Aloion** and deeply engage with philosophy and classical literature.
+I'm **Arnob Rahman**, a full-stack developer, literature and science enthusiast —
+currently shaping products at [Sara Tech Limited](https://saratech.com.bd), and leading
+the education initiative [Aloion](https://aloion.com).
+
+I write software, read poetry, question things, and occasionally try to understand
+the universe.
+
+When I'm not coding, you'll probably find me somewhere between Bengali literature,
+classical music, philosophy, and the fabric of space-time.
 
 ---
 
-### 💼 Key Projects
+## What I Do
 
-* **[TrackaTail](https://www.trackatail.com)** — Built full-stack (Web & Backend) at Sara Tech Limited.
-* **[Aloion](https://aloion.com)** — Educational NGO empowering underserved learners.
-* **ScanIt** — Enterprise document and file management platform.
+I'm primarily a **Backend Engineer**, though I build across the full stack when
+the problem demands it.
+
+I enjoy designing systems, building products, and figuring out how complicated
+things work. Beyond software, I run **Aloion**, a student-led initiative working
+towards a different kind of education.
+
+I'm interested in the intersection of **technology, education, literature,
+philosophy, and science**.
 
 ---
 
-### 💻 Tech Stack
+## Beyond Code
 
-**Languages**  
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,py" /></a>
+> *"Earth is brutally magical."*
+
+I write poetry.  
+I read literature.  
+I think about physics.  
+I listen to Bengali songs.  
+And I spend an unreasonable amount of time wondering why things are the way they are.
+
+### A little something I made
+
+<!-- Put your artwork here -->
+
+<p align="center">
+  <img src="./arnob_pfp.png" width="900">
 </p>
 
-**Frameworks**  
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind" /></a>
-</p>
-
-**Tools & Environment**  
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git" /></a>
+<p align="center">
+  <i>Something between mathematics, memory, and poetry.</i>
 </p>
 
 ---
 
-<blockquote align="center">
-  <p><i><s>“Earth is magical.”</s></i></p>
-  <p><b>“Earth is <u>brutally</u> magical.”</b></p>
-  <sub style="opacity: 0.8;">— Ornob (2026)</sub>
-</blockquote>
+## Tech Stack
+
+### Languages
+
+![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
+
+### Tools
+
+![My Stack](https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git)
+
+---
+
+## Reach Me
+
+- [LinkedIn](https://linkedin.com/in/arnob17)
+- Email: `arnob17@tuta.io`
+- Blogposts: [/writings](https://arnob17.vercel.app/writings)
+
+---
+
+> ~~"Earth is magical."~~  
+> **"Earth is brutally magical."**  
+> — Arnob, 2026
