@@ -1,46 +1,75 @@
-<!-- # :herb: Arnob Rahman (Onu) - `Programmer, Poet, Dreamer` -->
----
-
-## Who I Am
-
-I'm **Arnob Rahman**, a full-stack developer, Literature and Science enthusiast - currently shaping impactful products at [Sara Tech Limited](https://saratech.com.bd), and leading the education revolution through [Aloion](https://aloion.com), a student-run learning initiative for underprivileged youth.
-
-When not coding, I explore classical Bengali music, poetry, and the fabric of space-time.
+# 🌿 Arnob Rahman (Onu)
+### *`Programmer | Poet | Dreamer`*
 
 ---
 
-## What I Do
+### 👨‍💻 Who I Am
 
-I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backnd Engineering. Although I do create webapps, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
+I'm **Arnob Rahman**, a Full-Stack Developer, Literature, and Science enthusiast. 
 
----
-<!-- 
-##  Projects You Might Like
-
-- [TrackaTail](https://www.trackatail.com) - A product of [Sara Tech Limited](https://saratech.com.bd), I was the backend and frontend (web) engineer.
-- [Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
-- [ScanIt](https://scanit.com) — Enterprise file/document manager -->
-
-## Reach Me
-
-- [LinkedIn](https://linkedin.com/in/arnob17)
-- Email: `arnob17@tuta.io`
-- Blogposts: [/writings](https://arnob17.vercel.app/writings)
-
----
-# Tech Stack
-## Languages
-![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
-<!--
-## Frameworks
-![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
--->
-## Tools
-![My Stack](https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git)
+* 🔭 Currently shaping impactful products at **[Sara Tech Limited](https://saratech.com.bd)**.
+* 🚀 Leading the educational revolution through **[Aloion](https://aloion.com)**, a student-run learning initiative empowering underprivileged youth.
+* 🌌 When not writing code, I explore classical Bengali music, poetry, and the intricate fabric of space-time.
 
 ---
 
-> ~~“Earth is magical.”~~ \
-> "Earth is **brutally** magical" \
-> ~Ornob (2026)
+### 🛠️ What I Do
+
+Core Backend Engineering is my true passion, though I build end-to-end web applications as a Full-Stack Engineer. Beyond tech, I manage **Aloion** and deeply engage with philosophy and classical literature.
+
 ---
+
+### 💼 Key Projects
+
+* **[TrackaTail](https://www.trackatail.com)** — Built full-stack (Web & Backend) at Sara Tech Limited.
+* **[Aloion](https://aloion.com)** — Educational NGO empowering underserved learners.
+* **ScanIt** — Enterprise document and file management platform.
+
+---
+
+### 💻 Tech Stack
+
+**Languages**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,py" alt="Languages" />
+  </a>
+</p>
+
+**Frameworks**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind" alt="Frameworks" />
+  </a>
+</p>
+
+**Tools & Environment**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/arnob17" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arnob17@tuta.io">
+    <img src="https://img.shields.io/badge/Email-arnob17@tuta.io-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://arnob17.vercel.app/writings" target="_blank">
+    <img src="https://img.shields.io/badge/Read_Writings-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
+---
+
+<blockquote align="center">
+  <p><i><s>“Earth is magical.”</s></i></p>
+  <p><b>“Earth is <u>brutally</u> magical.”</b></p>
+  <sub style="opacity: 0.8;">— Ornob (2026)</sub>
+</blockquote>
