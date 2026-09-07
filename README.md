@@ -1,7 +1,7 @@
 <!-- # :herb: Arnob Rahman (Onu) - `Programmer, Poet, Dreamer` -->
 ---
 
-<table border="0">
+<table>
 <tr>
 <td width="65%" valign="top">
 
@@ -25,7 +25,6 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 
 </td>
 </tr>
-</table>
 
 <!--
 ##  Projects You Might Like
@@ -34,7 +33,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 - [Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
 - [ScanIt](https://scanit.com) — Enterprise file/document manager
 -->
-
+<tr>
 ## Reach Me
 
 - [LinkedIn](https://linkedin.com/in/arnob17)
@@ -42,6 +41,8 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 - Blogposts: [/writings](https://arnob17.vercel.app/writings)
 
 ---
+</tr>
+<tr>
 # Tech Stack
 ## Languages
 ![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
@@ -49,12 +50,17 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 ## Frameworks
 ![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
 -->
+</tr>
+<tr>
 ## Tools
 ![My Stack](https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git)
 
 ---
-
+</tr>
+<tr>
 > ~~“Earth is magical.”~~ \
 > "Earth is **brutally** magical" \
 > ~Ornob (2026)
 ---
+</tr>
+</table>
