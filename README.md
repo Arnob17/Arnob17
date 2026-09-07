@@ -1,12 +1,10 @@
 <!-- # :herb: Arnob Rahman (Onu) - `Programmer, Poet, Dreamer` -->
----
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
 ## Who I Am
-
 I'm **Arnob Rahman**, a full-stack developer, Literature and Science enthusiast - currently shaping impactful products at [Sara Tech Limited](https://saratech.com.bd), and leading the education revolution through [Aloion](https://aloion.com), a student-run learning initiative for underprivileged youth.
 
 When not coding, I explore classical Bengali music, poetry, and the fabric of space-time.
@@ -14,61 +12,70 @@ When not coding, I explore classical Bengali music, poetry, and the fabric of sp
 ---
 
 ## What I Do
-
-I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backnd Engineering. Although I do create webapps, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
+I am a passionate Programmer. I enjoy anything related to programming, Especially I do, Backend Engineering. Although I do create webapps, So identifying myself as a "FullStack Engineer". Besides that I run a organization called "Aloion". Interested in philosophy, literature and related subjects.
 
 </td>
-
 <td width="35%" align="center" valign="middle">
-
 <img src="./arnob_pfp.png" width="280px" />
-
 </td>
 </tr>
 
 <!--
-##  Projects You Might Like
-
+## Projects You Might Like
 - [TrackaTail](https://www.trackatail.com) - A product of [Sara Tech Limited](https://saratech.com.bd), I was the backend and frontend (web) engineer.
 - [Aloion](https://aloion.com) - A student-driven educational NGO empowering underserved learners
 - [ScanIt](https://scanit.com) — Enterprise file/document manager
 -->
-<tr>
-<td>
-  ## Reach Me
 
+<tr>
+<td colspan="2">
+
+## Reach Me
 - [LinkedIn](https://linkedin.com/in/arnob17)
 - Email: `arnob17@tuta.io`
 - Blogposts: [/writings](https://arnob17.vercel.app/writings)
 
 ---
+
 </td>
 </tr>
+
 <tr>
-<td>
-  # Tech Stack
+<td colspan="2">
+
+# Tech Stack
+
 ## Languages
 ![My Stack](https://skillicons.dev/icons?i=c,cpp,ts,js,go,py)
+
 <!--
 ## Frameworks
 ![My Stack](https://skillicons.dev/icons?i=react,next,remix,nest,express,tailwind)
 -->
+
 </td>
 </tr>
+
 <tr>
-<td>
-  ## Tools
+<td colspan="2">
+
+## Tools
 ![My Stack](https://skillicons.dev/icons?i=linux,vim,atom,emacs,docker,bash,git)
 
 ---
+
 </td>
 </tr>
+
 <tr>
-<td>
-  > ~~“Earth is magical.”~~ \
-> "Earth is **brutally** magical" \
+<td colspan="2">
+
+> ~~“Earth is magical.”~~  
+> "Earth is **brutally** magical"  
 > ~Ornob (2026)
+
 ---
+
 </td>
 </tr>
 </table>
