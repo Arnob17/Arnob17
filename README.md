@@ -1,7 +1,7 @@
 <!-- # :herb: Arnob Rahman (Onu) - `Programmer, Poet, Dreamer` -->
 ---
 
-<table>
+<table border="0">
 <tr>
 <td width="65%" valign="top">
 
