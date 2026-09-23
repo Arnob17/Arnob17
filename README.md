@@ -32,7 +32,7 @@ I am a passionate Programmer. I enjoy anything related to programming, Especiall
 
 ## Reach Me
 - [LinkedIn](https://linkedin.com/in/arnob17)
-- Email: `arnob17@tuta.io`
+- Email: `arnob@aloion.com`
 - Blogposts: [/writings](https://arnob17.vercel.app/writings)
 
 ---
